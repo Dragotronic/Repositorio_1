@@ -1,0 +1,107 @@
+/*
+Miguel Angel Gonzlez Ramon
+    practica Google
+    Version 1.2.7
+*/
+
+body{
+    font-family: Cambria, Cochin,  Times, 'Times New Roman', serif;  
+    width:100%;
+    height: 100%;
+    font-size: 14px;
+}
+
+#menu ul li{
+    float:right;
+}
+
+#menu img{
+    width: 20px;
+    height: 20px;
+}
+
+ul li{
+    list-style: none;
+    padding-left: 5px;
+    padding-right: 10px;
+    
+}
+
+a {
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+#menu img:hover{
+    background-color: rgb(234, 240, 234);
+    border-radius: 100%;
+}
+
+#img{
+    clear: both;
+}
+
+img{
+    margin-top: 3%;
+    height: 100px;
+}
+#principal div{
+    text-align: center;
+}
+input{
+    display: block;
+    margin: 0% auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+    width: 50%;
+    height: 25px;
+    border-color: gray;
+}
+
+button{
+    border-radius: 4px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    border: 0px;
+    height: 20px;
+}
+
+
+#principal{    
+    text-align: center;
+}
+
+#pie{  
+    background-color: rgb(241, 239, 239);   
+    margin-top: 17.5%;
+    padding-bottom: 25px;
+    text-align: left;
+}
+
+p{
+    text-align: left;
+    padding-top: 10px;
+}
+
+#der li{
+    float:right;
+    margin-block-start: -1%;
+}
+
+#izq li{
+    float:left;
+    margin-block-start: -1%;
+}
+
+
+
+
+
+
+
